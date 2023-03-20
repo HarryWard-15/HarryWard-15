@@ -32,6 +32,10 @@ due to the owner seeing how I operate under a work environment.
 ● Returning from the USA after completing the first year of my degree over there
 ● Soccer and academic scholarship to study overseas from 2019-2020
 
+### University of Western Australia | Full Stack Web Development Bootcamp. May 2023
+● Currently completing a full stack developer course
+● Learning HTML, JS, CSS, mySQL, Node, React and more 
+
 ## QUALIFICATIONS
 
 | RSA | Approved Managers | White Card | Forklift Ticket | Certificate II Business |
