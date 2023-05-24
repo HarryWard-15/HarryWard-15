@@ -2,7 +2,7 @@
 
 Resume:
 <br/>
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/HarryWard-15/HarryWard-15/blob/main/resume.pdf)
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/HarryWard-15/HarryWard-15/raw/main/resume.pdf)
 <br/>
 <br/>
 <a href="mailto:hward.1508@gmail.com"><img alt="Link to email contact address" src="https://img.shields.io/badge/email-D14836?style=for-the-badge" target="_blank" /></a> <a href="https://www.linkedin.com/in/harryward00/"><img alt="badge for GitHub" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
