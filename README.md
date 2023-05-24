@@ -1,8 +1,6 @@
 # Harry Charles Ward
 
-|Phone: 0407472736 | Email: hward.1508@gmail.com |
-|LinkedIn: https://www.linkedin.com/in/harryward00/ |
-|Portfolio: https://harryward-15.github.io/Harry-Ward-Portfolio/ |
+<a href="mailto:hward.1508@gmail.com"><img alt="Link to email contact address" src="https://img.shields.io/badge/email-D14836?style=for-the-badge" target="_blank" /></a> <a href="[h](https://www.linkedin.com/in/harryward00/)"><img alt="badge for GitHub" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
 
 ## SUMMARY
 
