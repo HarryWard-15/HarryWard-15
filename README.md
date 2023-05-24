@@ -1,9 +1,7 @@
 # Harry Charles Ward
 
-|Wembley, WA |
 |Phone: 0407472736 | Email: hward.1508@gmail.com |
 |LinkedIn: https://www.linkedin.com/in/harryward00/ |
-|GitHub: https://github.com/HarryWard-15 |
 |Portfolio: https://harryward-15.github.io/Harry-Ward-Portfolio/ |
 
 ## SUMMARY
@@ -44,44 +42,6 @@ Software/Tools:
 <br/>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-
-## PROJECTS
-
-Out N About | https://github.com/HarryWard-15/out-n-about
-| https://outnabout.herokuapp.com/ 	
-This group project is aimed at those who want to get out of the house more, allowing users to complete ‘quests’ and earn badges by completing certain walking trails.
-My core responsibilities focused on learning MapBox GL, front end design and bug fixing 
-MongoDB, React.js, Mapbox GL, JS, JEST, CSS, HTML
-
-Buddy Up | https://github.com/HarryWard-15/Buddy-Up_Gaming-App                           
-| https://buddy-up-project.herokuapp.com/login  
-This group project is aimed towards gamers with a roadmap to include other hobbies. The main premise of the application is to allow hobbyists to find a partner to do their hobby with.
-My core responsibilities included the routing and overseeing the project development as a whole
-Node.js, HTML, CSS, JS, MVC model, Express.js, Sequelize, MySQL
-
-Pumping Party Planner | https://github.com/HarryWard-15/Pumping-Party_Planner  
-| https://harryward-15.github.io/Pumping-Party_Planner/ 	
-This group project is aimed at those looking to plan parties during their free time, allowing a user to integrate music and cocktails with ease.
-My core responsibilities were investigating API use and front end development
-HTML, CSS, MyCocktailDB, MusicBrainz, JS
-
-
-## EXPERIENCE
-
-### Assistant Manager 2021 – 2023
-ALH Group -  Wembley, WA
-Responsible for running a venue and managing up to 15 staff. Rostering, maintaining stock par levels and staff training. Communication, fast thinking and on the spot problem solving were a must in this role, which carry through strongly to software development.
-Key Accomplishments:
-Nominated for the Rising Star AHA award in 2022.
-Reduced labour costs from %48 to %38 goal.
-
-### Process Management Consultant	2020 – 2021
-CRISP Consulting - Cannington, WA
-Responsible for restructuring companies file structures and maintaining maximum efficiency on assembly lines. Communication, problem solving and research were required for this role. All of which will carry through to software development. 
-Key Accomplishments:
-Reformatted 4TB of company files within 30 days for efficiency.
-Investigating and formulating alternate methods of urea cleaning during urea shortage.
 
 
 ## EDUCATION
