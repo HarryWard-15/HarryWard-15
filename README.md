@@ -50,14 +50,3 @@ A 24-week intensive program focused on gaining technical programming skills in H
 ### Bachelor of Commerce (finance): University of Western Australia (End 2023 Completion).					
 
 
-## QUALIFICATIONS
-
-| RSA | Approved Managers | White Card | Forklift Ticket | Certificate II Business |
-
-## PERSONAL ATTRIBUTES
-
-| Fast Learner | Punctual | Reliable | Hard Worker | Problem Solver | Bubbly | Efficient | Unproblematic |
-
-## References available upon request
-
-Best contact: 0407 472 736
